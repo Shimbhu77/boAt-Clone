@@ -2,7 +2,14 @@
 ### boAt is india's no.1 electronic online goods selling Brand. An e-commerce website to shop for electronic products.
 ### A Collaborative Team project of 4 Memeber  executed in 4 days.
 
-### Tech Stack - HTML | CSS | JavaScript
+# Features 
+### Login, Signup functionality
+### Add to cart functionality and Cart page
+### Payment Page and Gateway
+### Navigation bar and Categories for different types of products
+
+# Tech Stack
+### HTML | CSS | JavaScript
 ### Home Page
 ![](https://github.com/vivekraj21/WEB19_CONSTRUCT_WEEK_1/blob/main/Images/Screenshot%20(199).png?raw=true)
 
