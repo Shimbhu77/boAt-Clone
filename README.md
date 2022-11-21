@@ -1,5 +1,5 @@
 # boAt Clone
-### boAt is india's no.1 electronic online goods selling Brand. An e-commerce website to shop for electronic products.
+### boAt is india's no.1 electronic online goods selling Brand. An e-commerce website to shop for electronic products.  
 ### A Collaborative Team project of 4 Memeber  executed in 4 days.
 
 # Features 
